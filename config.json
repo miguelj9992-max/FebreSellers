@@ -1,0 +1,15 @@
+{
+    "botID": "ID DO BOT",
+    "botToken": "TOKEN DO BOT",
+    "apiURL": "https://apiticket.shardweb.app/",
+    "version": "0.0.5",
+    "syncEmojis": true,
+    "saveConfig": false,
+    "startOnBackup": false,
+    "bot": {
+        "token": "TOKEN DO BOT",
+        "owner": "SEU ID",
+        "id": "ID DO BOT",
+        "server": "ID DO SEU SERVER"
+    }
+}
